@@ -597,7 +597,6 @@ qcamera_stop_recording(struct camera_device * device)
 
    qCamera->disableMsgType(CAMERA_MSG_VIDEO_FRAME);
    qCamera->stopRecording();
-
 }
 
 int
