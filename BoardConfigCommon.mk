@@ -41,7 +41,8 @@ TARGET_KERNEL_CUSTOM_TOOLCHAIN := arm-eabi-4.4.3
 TARGET_SPECIFIC_HEADER_PATH := device/htc/msm7x27-common/include
 
 ### USB Mass Storage
-TARGET_USE_CUSTOM_LUN_FILE_PATH := /sys/devices/platform/usb_mass_storage/lun0/file
+TARGET_USE_CUSTOM_LUN_FILE_PATH := /sys/devices/platform/msm_hsusb/gadget/lun0/file
+BOARD_UMS_LUNFILE := "/sys/devices/platform/msm_hsusb/gadget/lun0/file"
 
 ### Wifi related defines
 WPA_SUPPLICANT_VERSION           := VER_0_8_X
