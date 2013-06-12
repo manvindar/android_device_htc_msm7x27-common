@@ -6,7 +6,7 @@
   <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# githubog: http://ogp.me/ns/fb/githubog#">
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>android_device_lge_p350/libcamera/MODULE_LICENSE_BSD at cm-10.1 · PecanCM/android_device_lge_p350</title>
+        <title>android_device_lge_p350/libcamera/QCameraHAL.h at cm-10.1 · PecanCM/android_device_lge_p350</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub" />
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub" />
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png" />
@@ -41,7 +41,7 @@
       
       <meta http-equiv="x-pjax-version" content="47f78d46df854b5292952e11c7cc502a">
 
-        <link data-pjax-transient rel='permalink' href='/PecanCM/android_device_lge_p350/blob/44d4056a3c5f7a6e79dfb14d9e048d1c5b26daca/libcamera/MODULE_LICENSE_BSD'>
+        <link data-pjax-transient rel='permalink' href='/PecanCM/android_device_lge_p350/blob/44d4056a3c5f7a6e79dfb14d9e048d1c5b26daca/libcamera/QCameraHAL.h'>
     <meta property="og:title" content="android_device_lge_p350"/>
     <meta property="og:type" content="githubog:gitrepository"/>
     <meta property="og:url" content="https://github.com/PecanCM/android_device_lge_p350"/>
@@ -377,35 +377,35 @@
 
                 <div class="select-menu-item js-navigation-item ">
                   <span class="select-menu-item-icon octicon octicon-check"></span>
-                  <a href="/PecanCM/android_device_lge_p350/blob/android-4.2.2_r1/libcamera/MODULE_LICENSE_BSD" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="android-4.2.2_r1" rel="nofollow" title="android-4.2.2_r1">android-4.2.2_r1</a>
+                  <a href="/PecanCM/android_device_lge_p350/blob/android-4.2.2_r1/libcamera/QCameraHAL.h" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="android-4.2.2_r1" rel="nofollow" title="android-4.2.2_r1">android-4.2.2_r1</a>
                 </div> <!-- /.select-menu-item -->
                 <div class="select-menu-item js-navigation-item selected">
                   <span class="select-menu-item-icon octicon octicon-check"></span>
-                  <a href="/PecanCM/android_device_lge_p350/blob/cm-10.1/libcamera/MODULE_LICENSE_BSD" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="cm-10.1" rel="nofollow" title="cm-10.1">cm-10.1</a>
+                  <a href="/PecanCM/android_device_lge_p350/blob/cm-10.1/libcamera/QCameraHAL.h" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="cm-10.1" rel="nofollow" title="cm-10.1">cm-10.1</a>
                 </div> <!-- /.select-menu-item -->
                 <div class="select-menu-item js-navigation-item ">
                   <span class="select-menu-item-icon octicon octicon-check"></span>
-                  <a href="/PecanCM/android_device_lge_p350/blob/cm-10.1-wip/libcamera/MODULE_LICENSE_BSD" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="cm-10.1-wip" rel="nofollow" title="cm-10.1-wip">cm-10.1-wip</a>
+                  <a href="/PecanCM/android_device_lge_p350/blob/cm-10.1-wip/libcamera/QCameraHAL.h" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="cm-10.1-wip" rel="nofollow" title="cm-10.1-wip">cm-10.1-wip</a>
                 </div> <!-- /.select-menu-item -->
                 <div class="select-menu-item js-navigation-item ">
                   <span class="select-menu-item-icon octicon octicon-check"></span>
-                  <a href="/PecanCM/android_device_lge_p350/blob/gingerbread/libcamera/MODULE_LICENSE_BSD" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="gingerbread" rel="nofollow" title="gingerbread">gingerbread</a>
+                  <a href="/PecanCM/android_device_lge_p350/blob/gingerbread/libcamera/QCameraHAL.h" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="gingerbread" rel="nofollow" title="gingerbread">gingerbread</a>
                 </div> <!-- /.select-menu-item -->
                 <div class="select-menu-item js-navigation-item ">
                   <span class="select-menu-item-icon octicon octicon-check"></span>
-                  <a href="/PecanCM/android_device_lge_p350/blob/ics/libcamera/MODULE_LICENSE_BSD" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="ics" rel="nofollow" title="ics">ics</a>
+                  <a href="/PecanCM/android_device_lge_p350/blob/ics/libcamera/QCameraHAL.h" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="ics" rel="nofollow" title="ics">ics</a>
                 </div> <!-- /.select-menu-item -->
                 <div class="select-menu-item js-navigation-item ">
                   <span class="select-menu-item-icon octicon octicon-check"></span>
-                  <a href="/PecanCM/android_device_lge_p350/blob/ics-wip/libcamera/MODULE_LICENSE_BSD" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="ics-wip" rel="nofollow" title="ics-wip">ics-wip</a>
+                  <a href="/PecanCM/android_device_lge_p350/blob/ics-wip/libcamera/QCameraHAL.h" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="ics-wip" rel="nofollow" title="ics-wip">ics-wip</a>
                 </div> <!-- /.select-menu-item -->
                 <div class="select-menu-item js-navigation-item ">
                   <span class="select-menu-item-icon octicon octicon-check"></span>
-                  <a href="/PecanCM/android_device_lge_p350/blob/jb-wip/libcamera/MODULE_LICENSE_BSD" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="jb-wip" rel="nofollow" title="jb-wip">jb-wip</a>
+                  <a href="/PecanCM/android_device_lge_p350/blob/jb-wip/libcamera/QCameraHAL.h" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="jb-wip" rel="nofollow" title="jb-wip">jb-wip</a>
                 </div> <!-- /.select-menu-item -->
                 <div class="select-menu-item js-navigation-item ">
                   <span class="select-menu-item-icon octicon octicon-check"></span>
-                  <a href="/PecanCM/android_device_lge_p350/blob/jellybean/libcamera/MODULE_LICENSE_BSD" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="jellybean" rel="nofollow" title="jellybean">jellybean</a>
+                  <a href="/PecanCM/android_device_lge_p350/blob/jellybean/libcamera/QCameraHAL.h" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="jellybean" rel="nofollow" title="jellybean">jellybean</a>
                 </div> <!-- /.select-menu-item -->
             </div>
 
@@ -418,7 +418,7 @@
 
                 <div class="select-menu-item js-navigation-item ">
                   <span class="select-menu-item-icon octicon octicon-check"></span>
-                  <a href="/PecanCM/android_device_lge_p350/blob/cm10.1-RC7/libcamera/MODULE_LICENSE_BSD" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="cm10.1-RC7" rel="nofollow" title="cm10.1-RC7">cm10.1-RC7</a>
+                  <a href="/PecanCM/android_device_lge_p350/blob/cm10.1-RC7/libcamera/QCameraHAL.h" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="cm10.1-RC7" rel="nofollow" title="cm10.1-RC7">cm10.1-RC7</a>
                 </div> <!-- /.select-menu-item -->
             </div>
 
@@ -453,8 +453,8 @@
           
 
 
-<!-- blob contrib key: blob_contributors:v21:e6dcdc897f7f4c66a4d4040f2195cb63 -->
-<!-- blob contrib frag key: views10/v8/blob_contributors:v21:e6dcdc897f7f4c66a4d4040f2195cb63 -->
+<!-- blob contrib key: blob_contributors:v21:7309d015d7f35f34f3344c0f33226d5d -->
+<!-- blob contrib frag key: views10/v8/blob_contributors:v21:7309d015d7f35f34f3344c0f33226d5d -->
 
 
 <div id="slider">
@@ -463,13 +463,13 @@
       <p title="This is a placeholder element" class="js-history-link-replace hidden"></p>
 
         <div class="breadcrumb">
-          <span class='bold'><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/PecanCM/android_device_lge_p350" class="js-slide-to" data-branch="cm-10.1" data-direction="back" itemscope="url"><span itemprop="title">android_device_lge_p350</span></a></span></span><span class="separator"> / </span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/PecanCM/android_device_lge_p350/tree/cm-10.1/libcamera" class="js-slide-to" data-branch="cm-10.1" data-direction="back" itemscope="url"><span itemprop="title">libcamera</span></a></span><span class="separator"> / </span><strong class="final-path">MODULE_LICENSE_BSD</strong> <span class="js-zeroclipboard zeroclipboard-button" data-clipboard-text="libcamera/MODULE_LICENSE_BSD" data-copied-hint="copied!" title="copy to clipboard"><span class="octicon octicon-clippy"></span></span>
+          <span class='bold'><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/PecanCM/android_device_lge_p350" class="js-slide-to" data-branch="cm-10.1" data-direction="back" itemscope="url"><span itemprop="title">android_device_lge_p350</span></a></span></span><span class="separator"> / </span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/PecanCM/android_device_lge_p350/tree/cm-10.1/libcamera" class="js-slide-to" data-branch="cm-10.1" data-direction="back" itemscope="url"><span itemprop="title">libcamera</span></a></span><span class="separator"> / </span><strong class="final-path">QCameraHAL.h</strong> <span class="js-zeroclipboard zeroclipboard-button" data-clipboard-text="libcamera/QCameraHAL.h" data-copied-hint="copied!" title="copy to clipboard"><span class="octicon octicon-clippy"></span></span>
         </div>
 
       <a href="/PecanCM/android_device_lge_p350/find/cm-10.1" class="js-slide-to" data-hotkey="t" style="display:none">Show File Finder</a>
 
 
-        <div class="commit commit-loader file-history-tease js-deferred-content" data-url="/PecanCM/android_device_lge_p350/contributors/cm-10.1/libcamera/MODULE_LICENSE_BSD">
+        <div class="commit commit-loader file-history-tease js-deferred-content" data-url="/PecanCM/android_device_lge_p350/contributors/cm-10.1/libcamera/QCameraHAL.h">
           Fetching contributors…
 
           <div class="participation">
@@ -481,38 +481,76 @@
     </div><!-- ./.frame-meta -->
 
     <div class="frames">
-      <div class="frame" data-permalink-url="/PecanCM/android_device_lge_p350/blob/44d4056a3c5f7a6e79dfb14d9e048d1c5b26daca/libcamera/MODULE_LICENSE_BSD" data-title="android_device_lge_p350/libcamera/MODULE_LICENSE_BSD at cm-10.1 · PecanCM/android_device_lge_p350 · GitHub" data-type="blob">
+      <div class="frame" data-permalink-url="/PecanCM/android_device_lge_p350/blob/44d4056a3c5f7a6e79dfb14d9e048d1c5b26daca/libcamera/QCameraHAL.h" data-title="android_device_lge_p350/libcamera/QCameraHAL.h at cm-10.1 · PecanCM/android_device_lge_p350 · GitHub" data-type="blob">
 
         <div id="files" class="bubble">
           <div class="file">
             <div class="meta">
               <div class="info">
                 <span class="icon"><b class="octicon octicon-file-text"></b></span>
-                <span class="mode" title="File Mode">executable file</span>
-                  <span>0 lines (0 sloc)</span>
-                <span>0.0 kb</span>
+                <span class="mode" title="File Mode">file</span>
+                  <span>39 lines (30 sloc)</span>
+                <span>1.158 kb</span>
               </div>
               <div class="actions">
                 <div class="button-group">
                         <a class="minibutton tooltipped leftwards"
                            title="Clicking this button will automatically fork this project so you can edit the file"
-                           href="/PecanCM/android_device_lge_p350/edit/cm-10.1/libcamera/MODULE_LICENSE_BSD"
+                           href="/PecanCM/android_device_lge_p350/edit/cm-10.1/libcamera/QCameraHAL.h"
                            data-method="post" rel="nofollow">Edit</a>
-                  <a href="/PecanCM/android_device_lge_p350/raw/cm-10.1/libcamera/MODULE_LICENSE_BSD" class="button minibutton " id="raw-url">Raw</a>
-                    <a href="/PecanCM/android_device_lge_p350/blame/cm-10.1/libcamera/MODULE_LICENSE_BSD" class="button minibutton ">Blame</a>
-                  <a href="/PecanCM/android_device_lge_p350/commits/cm-10.1/libcamera/MODULE_LICENSE_BSD" class="button minibutton " rel="nofollow">History</a>
+                  <a href="/PecanCM/android_device_lge_p350/raw/cm-10.1/libcamera/QCameraHAL.h" class="button minibutton " id="raw-url">Raw</a>
+                    <a href="/PecanCM/android_device_lge_p350/blame/cm-10.1/libcamera/QCameraHAL.h" class="button minibutton ">Blame</a>
+                  <a href="/PecanCM/android_device_lge_p350/commits/cm-10.1/libcamera/QCameraHAL.h" class="button minibutton " rel="nofollow">History</a>
                 </div><!-- /.button-group -->
               </div><!-- /.actions -->
 
             </div>
-                <div class="blob-wrapper data type-text js-blob-data">
+                <div class="blob-wrapper data type-c js-blob-data">
       <table class="file-code file-diff">
         <tr class="file-code-line">
           <td class="blob-line-nums">
-            
+            <span id="L1" rel="#L1">1</span>
+<span id="L2" rel="#L2">2</span>
+<span id="L3" rel="#L3">3</span>
+<span id="L4" rel="#L4">4</span>
+<span id="L5" rel="#L5">5</span>
+<span id="L6" rel="#L6">6</span>
+<span id="L7" rel="#L7">7</span>
+<span id="L8" rel="#L8">8</span>
+<span id="L9" rel="#L9">9</span>
+<span id="L10" rel="#L10">10</span>
+<span id="L11" rel="#L11">11</span>
+<span id="L12" rel="#L12">12</span>
+<span id="L13" rel="#L13">13</span>
+<span id="L14" rel="#L14">14</span>
+<span id="L15" rel="#L15">15</span>
+<span id="L16" rel="#L16">16</span>
+<span id="L17" rel="#L17">17</span>
+<span id="L18" rel="#L18">18</span>
+<span id="L19" rel="#L19">19</span>
+<span id="L20" rel="#L20">20</span>
+<span id="L21" rel="#L21">21</span>
+<span id="L22" rel="#L22">22</span>
+<span id="L23" rel="#L23">23</span>
+<span id="L24" rel="#L24">24</span>
+<span id="L25" rel="#L25">25</span>
+<span id="L26" rel="#L26">26</span>
+<span id="L27" rel="#L27">27</span>
+<span id="L28" rel="#L28">28</span>
+<span id="L29" rel="#L29">29</span>
+<span id="L30" rel="#L30">30</span>
+<span id="L31" rel="#L31">31</span>
+<span id="L32" rel="#L32">32</span>
+<span id="L33" rel="#L33">33</span>
+<span id="L34" rel="#L34">34</span>
+<span id="L35" rel="#L35">35</span>
+<span id="L36" rel="#L36">36</span>
+<span id="L37" rel="#L37">37</span>
+<span id="L38" rel="#L38">38</span>
+
           </td>
           <td class="blob-line-code">
-                
+                  <div class="highlight"><pre><div class='line' id='LC1'><span class="cm">/*</span></div><div class='line' id='LC2'><span class="cm">** Copyright (c) 2011 The Linux Foundation. All rights reserved.</span></div><div class='line' id='LC3'><span class="cm">**</span></div><div class='line' id='LC4'><span class="cm">** Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);</span></div><div class='line' id='LC5'><span class="cm">** you may not use this file except in compliance with the License.</span></div><div class='line' id='LC6'><span class="cm">** You may obtain a copy of the License at</span></div><div class='line' id='LC7'><span class="cm">**</span></div><div class='line' id='LC8'><span class="cm">**     http://www.apache.org/licenses/LICENSE-2.0</span></div><div class='line' id='LC9'><span class="cm">**</span></div><div class='line' id='LC10'><span class="cm">** Unless required by applicable law or agreed to in writing, software</span></div><div class='line' id='LC11'><span class="cm">** distributed under the License is distributed on an &quot;AS IS&quot; BASIS,</span></div><div class='line' id='LC12'><span class="cm">** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.</span></div><div class='line' id='LC13'><span class="cm">** See the License for the specific language governing permissions and</span></div><div class='line' id='LC14'><span class="cm">** limitations under the License.</span></div><div class='line' id='LC15'><span class="cm">*/</span></div><div class='line' id='LC16'><br/></div><div class='line' id='LC17'><span class="cp">#ifndef ANDROID_HARDWARE_QCAMERA_HAL_H</span></div><div class='line' id='LC18'><span class="cp">#define ANDROID_HARDWARE_QCAMERA_HAL_H</span></div><div class='line' id='LC19'><br/></div><div class='line' id='LC20'><span class="cp">#include &lt;camera/CameraHardwareInterface.h&gt;</span></div><div class='line' id='LC21'><span class="cp">#include &lt;hardware/camera.h&gt;</span></div><div class='line' id='LC22'><br/></div><div class='line' id='LC23'><span class="k">extern</span> <span class="s">&quot;C&quot;</span> <span class="p">{</span></div><div class='line' id='LC24'><span class="c1">//#include &lt;mm_camera_interface2.h&gt;</span></div><div class='line' id='LC25'><span class="p">}</span></div><div class='line' id='LC26'><span class="k">namespace</span> <span class="n">android</span> <span class="p">{</span></div><div class='line' id='LC27'><br/></div><div class='line' id='LC28'><span class="cm">/* HAL should return NULL if it fails to open camera hardware. */</span></div><div class='line' id='LC29'><span class="k">extern</span> <span class="s">&quot;C&quot;</span> <span class="kt">void</span> <span class="o">*</span></div><div class='line' id='LC30'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="n">QCameraHAL_openCameraHardware</span><span class="p">(</span><span class="kt">int</span>  <span class="n">cameraId</span><span class="p">,</span> <span class="kt">int</span> <span class="n">mode</span><span class="p">);</span></div><div class='line' id='LC31'><span class="k">extern</span> <span class="s">&quot;C&quot;</span> <span class="kt">int</span> <span class="n">HAL_getNumberOfCameras</span><span class="p">();</span></div><div class='line' id='LC32'><span class="k">extern</span> <span class="s">&quot;C&quot;</span> <span class="kt">void</span> <span class="n">HAL_getCameraInfo</span><span class="p">(</span><span class="kt">int</span> <span class="n">cameraId</span><span class="p">,</span> <span class="k">struct</span> <span class="n">CameraInfo</span><span class="o">*</span> <span class="n">cameraInfo</span><span class="p">);</span></div><div class='line' id='LC33'><br/></div><div class='line' id='LC34'><span class="p">};</span> <span class="c1">// namespace android</span></div><div class='line' id='LC35'><br/></div><div class='line' id='LC36'><br/></div><div class='line' id='LC37'><span class="cp">#endif</span></div><div class='line' id='LC38'><br/></div></pre></div>
           </td>
         </tr>
       </table>
@@ -598,7 +636,7 @@
       <hr class="footer-divider">
 
 
-    <p class="right">&copy; 2013 <span title="0.16776s from fe4.rs.github.com">GitHub</span>, Inc. All rights reserved.</p>
+    <p class="right">&copy; 2013 <span title="0.14590s from fe4.rs.github.com">GitHub</span>, Inc. All rights reserved.</p>
     <a class="left" href="/">
       <span class="mega-octicon octicon-mark-github"></span>
     </a>
@@ -644,7 +682,7 @@
     </div>
 
     
-    <span id='server_response_time' data-time='0.16839' data-host='fe4'></span>
+    <span id='server_response_time' data-time='0.14634' data-host='fe4'></span>
     
   </body>
 </html>

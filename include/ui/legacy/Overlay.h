@@ -6,7 +6,7 @@
   <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# githubog: http://ogp.me/ns/fb/githubog#">
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>android_device_lge_p350/libcamera/Android.mk at cm-10.1 · PecanCM/android_device_lge_p350</title>
+        <title>android_device_lge_p350/include/ui/legacy/Overlay.h at cm-10.1 · PecanCM/android_device_lge_p350</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub" />
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub" />
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png" />
@@ -41,7 +41,7 @@
       
       <meta http-equiv="x-pjax-version" content="47f78d46df854b5292952e11c7cc502a">
 
-        <link data-pjax-transient rel='permalink' href='/PecanCM/android_device_lge_p350/blob/44d4056a3c5f7a6e79dfb14d9e048d1c5b26daca/libcamera/Android.mk'>
+        <link data-pjax-transient rel='permalink' href='/PecanCM/android_device_lge_p350/blob/44d4056a3c5f7a6e79dfb14d9e048d1c5b26daca/include/ui/legacy/Overlay.h'>
     <meta property="og:title" content="android_device_lge_p350"/>
     <meta property="og:type" content="githubog:gitrepository"/>
     <meta property="og:url" content="https://github.com/PecanCM/android_device_lge_p350"/>
@@ -377,35 +377,35 @@
 
                 <div class="select-menu-item js-navigation-item ">
                   <span class="select-menu-item-icon octicon octicon-check"></span>
-                  <a href="/PecanCM/android_device_lge_p350/blob/android-4.2.2_r1/libcamera/Android.mk" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="android-4.2.2_r1" rel="nofollow" title="android-4.2.2_r1">android-4.2.2_r1</a>
+                  <a href="/PecanCM/android_device_lge_p350/blob/android-4.2.2_r1/include/ui/legacy/Overlay.h" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="android-4.2.2_r1" rel="nofollow" title="android-4.2.2_r1">android-4.2.2_r1</a>
                 </div> <!-- /.select-menu-item -->
                 <div class="select-menu-item js-navigation-item selected">
                   <span class="select-menu-item-icon octicon octicon-check"></span>
-                  <a href="/PecanCM/android_device_lge_p350/blob/cm-10.1/libcamera/Android.mk" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="cm-10.1" rel="nofollow" title="cm-10.1">cm-10.1</a>
+                  <a href="/PecanCM/android_device_lge_p350/blob/cm-10.1/include/ui/legacy/Overlay.h" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="cm-10.1" rel="nofollow" title="cm-10.1">cm-10.1</a>
                 </div> <!-- /.select-menu-item -->
                 <div class="select-menu-item js-navigation-item ">
                   <span class="select-menu-item-icon octicon octicon-check"></span>
-                  <a href="/PecanCM/android_device_lge_p350/blob/cm-10.1-wip/libcamera/Android.mk" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="cm-10.1-wip" rel="nofollow" title="cm-10.1-wip">cm-10.1-wip</a>
+                  <a href="/PecanCM/android_device_lge_p350/blob/cm-10.1-wip/include/ui/legacy/Overlay.h" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="cm-10.1-wip" rel="nofollow" title="cm-10.1-wip">cm-10.1-wip</a>
                 </div> <!-- /.select-menu-item -->
                 <div class="select-menu-item js-navigation-item ">
                   <span class="select-menu-item-icon octicon octicon-check"></span>
-                  <a href="/PecanCM/android_device_lge_p350/blob/gingerbread/libcamera/Android.mk" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="gingerbread" rel="nofollow" title="gingerbread">gingerbread</a>
+                  <a href="/PecanCM/android_device_lge_p350/blob/gingerbread/include/ui/legacy/Overlay.h" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="gingerbread" rel="nofollow" title="gingerbread">gingerbread</a>
                 </div> <!-- /.select-menu-item -->
                 <div class="select-menu-item js-navigation-item ">
                   <span class="select-menu-item-icon octicon octicon-check"></span>
-                  <a href="/PecanCM/android_device_lge_p350/blob/ics/libcamera/Android.mk" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="ics" rel="nofollow" title="ics">ics</a>
+                  <a href="/PecanCM/android_device_lge_p350/blob/ics/include/ui/legacy/Overlay.h" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="ics" rel="nofollow" title="ics">ics</a>
                 </div> <!-- /.select-menu-item -->
                 <div class="select-menu-item js-navigation-item ">
                   <span class="select-menu-item-icon octicon octicon-check"></span>
-                  <a href="/PecanCM/android_device_lge_p350/blob/ics-wip/libcamera/Android.mk" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="ics-wip" rel="nofollow" title="ics-wip">ics-wip</a>
+                  <a href="/PecanCM/android_device_lge_p350/blob/ics-wip/include/ui/legacy/Overlay.h" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="ics-wip" rel="nofollow" title="ics-wip">ics-wip</a>
                 </div> <!-- /.select-menu-item -->
                 <div class="select-menu-item js-navigation-item ">
                   <span class="select-menu-item-icon octicon octicon-check"></span>
-                  <a href="/PecanCM/android_device_lge_p350/blob/jb-wip/libcamera/Android.mk" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="jb-wip" rel="nofollow" title="jb-wip">jb-wip</a>
+                  <a href="/PecanCM/android_device_lge_p350/blob/jb-wip/include/ui/legacy/Overlay.h" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="jb-wip" rel="nofollow" title="jb-wip">jb-wip</a>
                 </div> <!-- /.select-menu-item -->
                 <div class="select-menu-item js-navigation-item ">
                   <span class="select-menu-item-icon octicon octicon-check"></span>
-                  <a href="/PecanCM/android_device_lge_p350/blob/jellybean/libcamera/Android.mk" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="jellybean" rel="nofollow" title="jellybean">jellybean</a>
+                  <a href="/PecanCM/android_device_lge_p350/blob/jellybean/include/ui/legacy/Overlay.h" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="jellybean" rel="nofollow" title="jellybean">jellybean</a>
                 </div> <!-- /.select-menu-item -->
             </div>
 
@@ -418,7 +418,7 @@
 
                 <div class="select-menu-item js-navigation-item ">
                   <span class="select-menu-item-icon octicon octicon-check"></span>
-                  <a href="/PecanCM/android_device_lge_p350/blob/cm10.1-RC7/libcamera/Android.mk" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="cm10.1-RC7" rel="nofollow" title="cm10.1-RC7">cm10.1-RC7</a>
+                  <a href="/PecanCM/android_device_lge_p350/blob/cm10.1-RC7/include/ui/legacy/Overlay.h" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="cm10.1-RC7" rel="nofollow" title="cm10.1-RC7">cm10.1-RC7</a>
                 </div> <!-- /.select-menu-item -->
             </div>
 
@@ -453,8 +453,8 @@
           
 
 
-<!-- blob contrib key: blob_contributors:v21:4234229f6f6e1bd319b690b0f4895432 -->
-<!-- blob contrib frag key: views10/v8/blob_contributors:v21:4234229f6f6e1bd319b690b0f4895432 -->
+<!-- blob contrib key: blob_contributors:v21:5f5aa4234db7c558f6e9831a5b23fd8e -->
+<!-- blob contrib frag key: views10/v8/blob_contributors:v21:5f5aa4234db7c558f6e9831a5b23fd8e -->
 
 
 <div id="slider">
@@ -463,7 +463,7 @@
       <p title="This is a placeholder element" class="js-history-link-replace hidden"></p>
 
         <div class="breadcrumb">
-          <span class='bold'><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/PecanCM/android_device_lge_p350" class="js-slide-to" data-branch="cm-10.1" data-direction="back" itemscope="url"><span itemprop="title">android_device_lge_p350</span></a></span></span><span class="separator"> / </span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/PecanCM/android_device_lge_p350/tree/cm-10.1/libcamera" class="js-slide-to" data-branch="cm-10.1" data-direction="back" itemscope="url"><span itemprop="title">libcamera</span></a></span><span class="separator"> / </span><strong class="final-path">Android.mk</strong> <span class="js-zeroclipboard zeroclipboard-button" data-clipboard-text="libcamera/Android.mk" data-copied-hint="copied!" title="copy to clipboard"><span class="octicon octicon-clippy"></span></span>
+          <span class='bold'><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/PecanCM/android_device_lge_p350" class="js-slide-to" data-branch="cm-10.1" data-direction="back" itemscope="url"><span itemprop="title">android_device_lge_p350</span></a></span></span><span class="separator"> / </span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/PecanCM/android_device_lge_p350/tree/cm-10.1/include" class="js-slide-to" data-branch="cm-10.1" data-direction="back" itemscope="url"><span itemprop="title">include</span></a></span><span class="separator"> / </span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/PecanCM/android_device_lge_p350/tree/cm-10.1/include/ui" class="js-slide-to" data-branch="cm-10.1" data-direction="back" itemscope="url"><span itemprop="title">ui</span></a></span><span class="separator"> / </span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/PecanCM/android_device_lge_p350/tree/cm-10.1/include/ui/legacy" class="js-slide-to" data-branch="cm-10.1" data-direction="back" itemscope="url"><span itemprop="title">legacy</span></a></span><span class="separator"> / </span><strong class="final-path">Overlay.h</strong> <span class="js-zeroclipboard zeroclipboard-button" data-clipboard-text="include/ui/legacy/Overlay.h" data-copied-hint="copied!" title="copy to clipboard"><span class="octicon octicon-clippy"></span></span>
         </div>
 
       <a href="/PecanCM/android_device_lge_p350/find/cm-10.1" class="js-slide-to" data-hotkey="t" style="display:none">Show File Finder</a>
@@ -473,17 +473,14 @@
   <div class="commit file-history-tease">
     <img class="main-avatar" height="24" src="https://secure.gravatar.com/avatar/bcce06c7ac113f588537910e1907e023?s=140&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png" width="24" />
     <span class="author"><a href="/RonGokhale" rel="author">RonGokhale</a></span>
-    <time class="js-relative-date" datetime="2013-05-10T20:53:55-07:00" title="2013-05-10 20:53:55">May 10, 2013</time>
+    <time class="js-relative-date" datetime="2013-05-17T03:22:40-07:00" title="2013-05-17 03:22:40">May 17, 2013</time>
     <div class="commit-title">
-        <a href="/PecanCM/android_device_lge_p350/commit/99608c09d6df9db6e31ab71625a9ea74d5fbc424" class="message">p350:libcamera: CameraHAL restructure</a>
+        <a href="/PecanCM/android_device_lge_p350/commit/445197b940ed51e3cfe6764c391e82a79ce0613f" class="message">p350: whitespace cleanup</a>
     </div>
 
     <div class="participation">
-      <p class="quickstat"><a href="#blob_contributors_box" rel="facebox"><strong>2</strong> contributors</a></p>
-          <a class="avatar tooltipped downwards" title="RonGokhale" href="/PecanCM/android_device_lge_p350/commits/cm-10.1/libcamera/Android.mk?author=RonGokhale"><img height="20" src="https://secure.gravatar.com/avatar/bcce06c7ac113f588537910e1907e023?s=140&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png" width="20" /></a>
-    <a class="avatar tooltipped downwards" title="Rashed97" href="/PecanCM/android_device_lge_p350/commits/cm-10.1/libcamera/Android.mk?author=Rashed97"><img height="20" src="https://secure.gravatar.com/avatar/6e28c56bf2b55e191b60a61ca5852f1f?s=140&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png" width="20" /></a>
-
-
+      <p class="quickstat"><a href="#blob_contributors_box" rel="facebox"><strong>1</strong> contributor</a></p>
+      
     </div>
     <div id="blob_contributors_box" style="display:none">
       <h2 class="facebox-header">Users who have contributed to this file</h2>
@@ -491,10 +488,6 @@
         <li class="facebox-user-list-item">
           <img height="24" src="https://secure.gravatar.com/avatar/bcce06c7ac113f588537910e1907e023?s=140&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png" width="24" />
           <a href="/RonGokhale">RonGokhale</a>
-        </li>
-        <li class="facebox-user-list-item">
-          <img height="24" src="https://secure.gravatar.com/avatar/6e28c56bf2b55e191b60a61ca5852f1f?s=140&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png" width="24" />
-          <a href="/Rashed97">Rashed97</a>
         </li>
       </ul>
     </div>
@@ -504,7 +497,7 @@
     </div><!-- ./.frame-meta -->
 
     <div class="frames">
-      <div class="frame" data-permalink-url="/PecanCM/android_device_lge_p350/blob/44d4056a3c5f7a6e79dfb14d9e048d1c5b26daca/libcamera/Android.mk" data-title="android_device_lge_p350/libcamera/Android.mk at cm-10.1 · PecanCM/android_device_lge_p350 · GitHub" data-type="blob">
+      <div class="frame" data-permalink-url="/PecanCM/android_device_lge_p350/blob/44d4056a3c5f7a6e79dfb14d9e048d1c5b26daca/include/ui/legacy/Overlay.h" data-title="android_device_lge_p350/include/ui/legacy/Overlay.h at cm-10.1 · PecanCM/android_device_lge_p350 · GitHub" data-type="blob">
 
         <div id="files" class="bubble">
           <div class="file">
@@ -512,23 +505,23 @@
               <div class="info">
                 <span class="icon"><b class="octicon octicon-file-text"></b></span>
                 <span class="mode" title="File Mode">executable file</span>
-                  <span>69 lines (47 sloc)</span>
-                <span>1.824 kb</span>
+                  <span>126 lines (94 sloc)</span>
+                <span>3.534 kb</span>
               </div>
               <div class="actions">
                 <div class="button-group">
                         <a class="minibutton tooltipped leftwards"
                            title="Clicking this button will automatically fork this project so you can edit the file"
-                           href="/PecanCM/android_device_lge_p350/edit/cm-10.1/libcamera/Android.mk"
+                           href="/PecanCM/android_device_lge_p350/edit/cm-10.1/include/ui/legacy/Overlay.h"
                            data-method="post" rel="nofollow">Edit</a>
-                  <a href="/PecanCM/android_device_lge_p350/raw/cm-10.1/libcamera/Android.mk" class="button minibutton " id="raw-url">Raw</a>
-                    <a href="/PecanCM/android_device_lge_p350/blame/cm-10.1/libcamera/Android.mk" class="button minibutton ">Blame</a>
-                  <a href="/PecanCM/android_device_lge_p350/commits/cm-10.1/libcamera/Android.mk" class="button minibutton " rel="nofollow">History</a>
+                  <a href="/PecanCM/android_device_lge_p350/raw/cm-10.1/include/ui/legacy/Overlay.h" class="button minibutton " id="raw-url">Raw</a>
+                    <a href="/PecanCM/android_device_lge_p350/blame/cm-10.1/include/ui/legacy/Overlay.h" class="button minibutton ">Blame</a>
+                  <a href="/PecanCM/android_device_lge_p350/commits/cm-10.1/include/ui/legacy/Overlay.h" class="button minibutton " rel="nofollow">History</a>
                 </div><!-- /.button-group -->
               </div><!-- /.actions -->
 
             </div>
-                <div class="blob-wrapper data type-makefile js-blob-data">
+                <div class="blob-wrapper data type-c js-blob-data">
       <table class="file-code file-diff">
         <tr class="file-code-line">
           <td class="blob-line-nums">
@@ -600,10 +593,67 @@
 <span id="L66" rel="#L66">66</span>
 <span id="L67" rel="#L67">67</span>
 <span id="L68" rel="#L68">68</span>
+<span id="L69" rel="#L69">69</span>
+<span id="L70" rel="#L70">70</span>
+<span id="L71" rel="#L71">71</span>
+<span id="L72" rel="#L72">72</span>
+<span id="L73" rel="#L73">73</span>
+<span id="L74" rel="#L74">74</span>
+<span id="L75" rel="#L75">75</span>
+<span id="L76" rel="#L76">76</span>
+<span id="L77" rel="#L77">77</span>
+<span id="L78" rel="#L78">78</span>
+<span id="L79" rel="#L79">79</span>
+<span id="L80" rel="#L80">80</span>
+<span id="L81" rel="#L81">81</span>
+<span id="L82" rel="#L82">82</span>
+<span id="L83" rel="#L83">83</span>
+<span id="L84" rel="#L84">84</span>
+<span id="L85" rel="#L85">85</span>
+<span id="L86" rel="#L86">86</span>
+<span id="L87" rel="#L87">87</span>
+<span id="L88" rel="#L88">88</span>
+<span id="L89" rel="#L89">89</span>
+<span id="L90" rel="#L90">90</span>
+<span id="L91" rel="#L91">91</span>
+<span id="L92" rel="#L92">92</span>
+<span id="L93" rel="#L93">93</span>
+<span id="L94" rel="#L94">94</span>
+<span id="L95" rel="#L95">95</span>
+<span id="L96" rel="#L96">96</span>
+<span id="L97" rel="#L97">97</span>
+<span id="L98" rel="#L98">98</span>
+<span id="L99" rel="#L99">99</span>
+<span id="L100" rel="#L100">100</span>
+<span id="L101" rel="#L101">101</span>
+<span id="L102" rel="#L102">102</span>
+<span id="L103" rel="#L103">103</span>
+<span id="L104" rel="#L104">104</span>
+<span id="L105" rel="#L105">105</span>
+<span id="L106" rel="#L106">106</span>
+<span id="L107" rel="#L107">107</span>
+<span id="L108" rel="#L108">108</span>
+<span id="L109" rel="#L109">109</span>
+<span id="L110" rel="#L110">110</span>
+<span id="L111" rel="#L111">111</span>
+<span id="L112" rel="#L112">112</span>
+<span id="L113" rel="#L113">113</span>
+<span id="L114" rel="#L114">114</span>
+<span id="L115" rel="#L115">115</span>
+<span id="L116" rel="#L116">116</span>
+<span id="L117" rel="#L117">117</span>
+<span id="L118" rel="#L118">118</span>
+<span id="L119" rel="#L119">119</span>
+<span id="L120" rel="#L120">120</span>
+<span id="L121" rel="#L121">121</span>
+<span id="L122" rel="#L122">122</span>
+<span id="L123" rel="#L123">123</span>
+<span id="L124" rel="#L124">124</span>
+<span id="L125" rel="#L125">125</span>
 
           </td>
           <td class="blob-line-code">
-                  <div class="highlight"><pre><div class='line' id='LC1'><span class="nv">LOCAL_PATH</span> <span class="o">:=</span> <span class="k">$(</span>call my-dir<span class="k">)</span></div><div class='line' id='LC2'><br/></div><div class='line' id='LC3'><br/></div><div class='line' id='LC4'><span class="c">## Make libcamera</span></div><div class='line' id='LC5'><br/></div><div class='line' id='LC6'><br/></div><div class='line' id='LC7'><span class="c"># When zero we link against libmmcamera; when 1, we dlopen libmmcamera.</span></div><div class='line' id='LC8'><span class="nv">DLOPEN_LIBMMCAMERA</span><span class="o">:=</span>1</div><div class='line' id='LC9'><br/></div><div class='line' id='LC10'><span class="cp">include $(CLEAR_VARS)</span></div><div class='line' id='LC11'><span class="nv">LOCAL_MODULE_TAGS</span> <span class="o">:=</span> optional</div><div class='line' id='LC12'><br/></div><div class='line' id='LC13'><span class="nv">LOCAL_PRELINK_MODULE</span> <span class="o">:=</span> <span class="nb">false</span></div><div class='line' id='LC14'><br/></div><div class='line' id='LC15'><span class="nv">LOCAL_SRC_FILES</span><span class="o">:=</span> QualcommCameraHardware.cpp</div><div class='line' id='LC16'><br/></div><div class='line' id='LC17'><span class="nv">LOCAL_CFLAGS</span><span class="o">:=</span> -DDLOPEN_LIBMMCAMERA<span class="o">=</span><span class="k">$(</span>DLOPEN_LIBMMCAMERA<span class="k">)</span></div><div class='line' id='LC18'><br/></div><div class='line' id='LC19'><span class="cp">ifeq &quot;$(findstring msm7627,$(QCOM_TARGET_PRODUCT))&quot; &quot;msm7627&quot;</span></div><div class='line' id='LC20'><span class="nv">LOCAL_CFLAGS</span><span class="o">+=</span> -DNUM_PREVIEW_BUFFERS<span class="o">=</span>6 -D_ANDROID_</div><div class='line' id='LC21'><span class="cp">else</span></div><div class='line' id='LC22'><span class="nv">LOCAL_CFLAGS</span><span class="o">+=</span> -DNUM_PREVIEW_BUFFERS<span class="o">=</span>2 -D_ANDROID_</div><div class='line' id='LC23'><span class="cp">endif</span></div><div class='line' id='LC24'><br/></div><div class='line' id='LC25'><span class="nv">LOCAL_C_INCLUDES</span><span class="o">+=</span> <span class="se">\</span></div><div class='line' id='LC26'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="k">$(</span>TARGET_OUT_HEADERS<span class="k">)</span>/mm-camera <span class="se">\</span></div><div class='line' id='LC27'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="k">$(</span>TARGET_OUT_HEADERS<span class="k">)</span>/mm-camera/common <span class="se">\</span></div><div class='line' id='LC28'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="k">$(</span>TARGET_OUT_HEADERS<span class="k">)</span>/mm-camera <span class="se">\</span></div><div class='line' id='LC29'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="k">$(</span>TARGET_OUT_HEADERS<span class="k">)</span>/mm-still/jpeg <span class="se">\</span></div><div class='line' id='LC30'><br/></div><div class='line' id='LC31'><span class="nv">LOCAL_SHARED_LIBRARIES</span><span class="o">:=</span> libutils libui libcamera_client liblog libcutils</div><div class='line' id='LC32'><br/></div><div class='line' id='LC33'><span class="nv">LOCAL_SHARED_LIBRARIES</span><span class="o">+=</span> libbinder</div><div class='line' id='LC34'><span class="cp">ifneq ($(DLOPEN_LIBMMCAMERA),1)</span></div><div class='line' id='LC35'><span class="nv">LOCAL_SHARED_LIBRARIES</span><span class="o">+=</span> liboemcamera</div><div class='line' id='LC36'><span class="cp">else</span></div><div class='line' id='LC37'><span class="nv">LOCAL_SHARED_LIBRARIES</span><span class="o">+=</span> libdl</div><div class='line' id='LC38'><span class="cp">endif</span></div><div class='line' id='LC39'><br/></div><div class='line' id='LC40'><span class="cp">ifeq ($(BOARD_CAMERA_HAVE_ADDITIONAL_ISO),true)</span></div><div class='line' id='LC41'>	LOCAL_CFLAGS +<span class="o">=</span> -DADDITIONAL_ISO_MODES</div><div class='line' id='LC42'><span class="cp">endif</span></div><div class='line' id='LC43'><br/></div><div class='line' id='LC44'><span class="nv">LOCAL_MODULE</span><span class="o">:=</span> libcamera</div><div class='line' id='LC45'><span class="cp">include $(BUILD_SHARED_LIBRARY)</span></div><div class='line' id='LC46'><br/></div><div class='line' id='LC47'><br/></div><div class='line' id='LC48'><span class="c">## Make camera wrapper</span></div><div class='line' id='LC49'><br/></div><div class='line' id='LC50'><br/></div><div class='line' id='LC51'><span class="cp">include $(CLEAR_VARS)</span></div><div class='line' id='LC52'><br/></div><div class='line' id='LC53'><span class="nv">LOCAL_C_FLAGS</span>        <span class="o">+=</span> -O3</div><div class='line' id='LC54'><span class="nv">LOCAL_MODULE_TAGS</span>    <span class="o">:=</span> optional</div><div class='line' id='LC55'><span class="nv">LOCAL_MODULE_PATH</span>    <span class="o">:=</span> <span class="k">$(</span>TARGET_OUT_SHARED_LIBRARIES<span class="k">)</span>/hw</div><div class='line' id='LC56'><span class="nv">LOCAL_MODULE</span>         <span class="o">:=</span> camera.p350</div><div class='line' id='LC57'><span class="nv">LOCAL_SRC_FILES</span>      <span class="o">:=</span> QCameraHAL.cpp</div><div class='line' id='LC58'><span class="nv">LOCAL_PRELINK_MODULE</span> <span class="o">:=</span> <span class="nb">false</span></div><div class='line' id='LC59'><br/></div><div class='line' id='LC60'><span class="nv">LOCAL_SHARED_LIBRARIES</span> <span class="o">:=</span> liblog libdl libutils libcamera_client libbinder libcutils libhardware libcamera libui</div><div class='line' id='LC61'><span class="nv">LOCAL_C_INCLUDES</span>       <span class="o">:=</span> frameworks/base/services <span class="se">\</span></div><div class='line' id='LC62'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frameworks/base/include <span class="se">\</span></div><div class='line' id='LC63'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frameworks/av/include <span class="se">\</span></div><div class='line' id='LC64'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frameworks/native/include <span class="se">\</span></div><div class='line' id='LC65'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hardware/libhardware/include <span class="se">\</span></div><div class='line' id='LC66'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hardware/qcom/display-legacy/libgralloc</div><div class='line' id='LC67'><br/></div><div class='line' id='LC68'><span class="cp">include $(BUILD_SHARED_LIBRARY)</span></div></pre></div>
+                  <div class="highlight"><pre><div class='line' id='LC1'><span class="cm">/*</span></div><div class='line' id='LC2'><span class="cm"> * Copyright (C) 2007 The Android Open Source Project</span></div><div class='line' id='LC3'><span class="cm"> * Copyright (c) 2009, Code Aurora Forum. All rights reserved.</span></div><div class='line' id='LC4'><span class="cm"> *</span></div><div class='line' id='LC5'><span class="cm"> * Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);</span></div><div class='line' id='LC6'><span class="cm"> * you may not use this file except in compliance with the License.</span></div><div class='line' id='LC7'><span class="cm"> * You may obtain a copy of the License at</span></div><div class='line' id='LC8'><span class="cm"> *</span></div><div class='line' id='LC9'><span class="cm"> *      http://www.apache.org/licenses/LICENSE-2.0</span></div><div class='line' id='LC10'><span class="cm"> *</span></div><div class='line' id='LC11'><span class="cm"> * Unless required by applicable law or agreed to in writing, software</span></div><div class='line' id='LC12'><span class="cm"> * distributed under the License is distributed on an &quot;AS IS&quot; BASIS,</span></div><div class='line' id='LC13'><span class="cm"> * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.</span></div><div class='line' id='LC14'><span class="cm"> * See the License for the specific language governing permissions and</span></div><div class='line' id='LC15'><span class="cm"> * limitations under the License.</span></div><div class='line' id='LC16'><span class="cm"> */</span></div><div class='line' id='LC17'><br/></div><div class='line' id='LC18'><span class="cp">#ifndef ANDROID_OVERLAY_H</span></div><div class='line' id='LC19'><span class="cp">#define ANDROID_OVERLAY_H</span></div><div class='line' id='LC20'><br/></div><div class='line' id='LC21'><span class="cp">#include &lt;stdint.h&gt;</span></div><div class='line' id='LC22'><span class="cp">#include &lt;sys/types.h&gt;</span></div><div class='line' id='LC23'><br/></div><div class='line' id='LC24'><span class="cp">#include &lt;utils/Errors.h&gt;</span></div><div class='line' id='LC25'><span class="cp">#include &lt;binder/IInterface.h&gt;</span></div><div class='line' id='LC26'><span class="cp">#include &lt;utils/RefBase.h&gt;</span></div><div class='line' id='LC27'><span class="cp">#include &lt;utils/threads.h&gt;</span></div><div class='line' id='LC28'><br/></div><div class='line' id='LC29'><span class="cp">#include &lt;ui/PixelFormat.h&gt;</span></div><div class='line' id='LC30'><span class="cp">#include &quot;IOverlay.h&quot;</span></div><div class='line' id='LC31'><br/></div><div class='line' id='LC32'><span class="cp">#include &quot;overlay.h&quot;</span></div><div class='line' id='LC33'><br/></div><div class='line' id='LC34'><span class="k">namespace</span> <span class="n">android</span> <span class="p">{</span></div><div class='line' id='LC35'><br/></div><div class='line' id='LC36'><span class="k">class</span> <span class="nc">IMemory</span><span class="p">;</span></div><div class='line' id='LC37'><span class="k">class</span> <span class="nc">IMemoryHeap</span><span class="p">;</span></div><div class='line' id='LC38'><br/></div><div class='line' id='LC39'><span class="c1">// ----------------------------------------------------------------------------</span></div><div class='line' id='LC40'><br/></div><div class='line' id='LC41'><span class="k">class</span> <span class="nc">OverlayRef</span> <span class="o">:</span> <span class="k">public</span> <span class="n">LightRefBase</span><span class="o">&lt;</span><span class="n">OverlayRef</span><span class="o">&gt;</span></div><div class='line' id='LC42'><span class="p">{</span></div><div class='line' id='LC43'><span class="nl">public:</span></div><div class='line' id='LC44'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="n">OverlayRef</span><span class="p">(</span><span class="kt">overlay_handle_t</span><span class="p">,</span> <span class="k">const</span> <span class="n">sp</span><span class="o">&lt;</span><span class="n">IOverlay</span><span class="o">&gt;&amp;</span><span class="p">,</span></div><div class='line' id='LC45'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="kt">uint32_t</span> <span class="n">w</span><span class="p">,</span> <span class="kt">uint32_t</span> <span class="n">h</span><span class="p">,</span> <span class="kt">int32_t</span> <span class="n">f</span><span class="p">,</span> <span class="kt">uint32_t</span> <span class="n">ws</span><span class="p">,</span> <span class="kt">uint32_t</span> <span class="n">hs</span><span class="p">);</span></div><div class='line' id='LC46'><br/></div><div class='line' id='LC47'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="k">static</span> <span class="n">sp</span><span class="o">&lt;</span><span class="n">OverlayRef</span><span class="o">&gt;</span> <span class="n">readFromParcel</span><span class="p">(</span><span class="k">const</span> <span class="n">Parcel</span><span class="o">&amp;</span> <span class="n">data</span><span class="p">);</span></div><div class='line' id='LC48'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="k">static</span> <span class="kt">status_t</span> <span class="nf">writeToParcel</span><span class="p">(</span><span class="n">Parcel</span><span class="o">*</span> <span class="n">reply</span><span class="p">,</span> <span class="k">const</span> <span class="n">sp</span><span class="o">&lt;</span><span class="n">OverlayRef</span><span class="o">&gt;&amp;</span> <span class="n">o</span><span class="p">);</span></div><div class='line' id='LC49'><br/></div><div class='line' id='LC50'><span class="nl">private:</span></div><div class='line' id='LC51'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="k">friend</span> <span class="k">class</span> <span class="nc">LightRefBase</span><span class="o">&lt;</span><span class="n">OverlayRef</span><span class="o">&gt;</span><span class="p">;</span></div><div class='line' id='LC52'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="k">friend</span> <span class="k">class</span> <span class="nc">Overlay</span><span class="p">;</span></div><div class='line' id='LC53'><br/></div><div class='line' id='LC54'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="n">OverlayRef</span><span class="p">();</span></div><div class='line' id='LC55'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="k">virtual</span> <span class="o">~</span><span class="n">OverlayRef</span><span class="p">();</span></div><div class='line' id='LC56'><br/></div><div class='line' id='LC57'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="kt">overlay_handle_t</span> <span class="n">mOverlayHandle</span><span class="p">;</span></div><div class='line' id='LC58'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="n">sp</span><span class="o">&lt;</span><span class="n">IOverlay</span><span class="o">&gt;</span> <span class="n">mOverlayChannel</span><span class="p">;</span></div><div class='line' id='LC59'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="kt">uint32_t</span> <span class="n">mWidth</span><span class="p">;</span></div><div class='line' id='LC60'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="kt">uint32_t</span> <span class="n">mHeight</span><span class="p">;</span></div><div class='line' id='LC61'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="kt">int32_t</span>  <span class="n">mFormat</span><span class="p">;</span></div><div class='line' id='LC62'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="kt">int32_t</span>  <span class="n">mWidthStride</span><span class="p">;</span></div><div class='line' id='LC63'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="kt">int32_t</span>  <span class="n">mHeightStride</span><span class="p">;</span></div><div class='line' id='LC64'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="kt">bool</span> <span class="n">mOwnHandle</span><span class="p">;</span></div><div class='line' id='LC65'><span class="p">};</span></div><div class='line' id='LC66'><br/></div><div class='line' id='LC67'><span class="c1">// ----------------------------------------------------------------------------</span></div><div class='line' id='LC68'><br/></div><div class='line' id='LC69'><span class="k">class</span> <span class="nc">Overlay</span> <span class="o">:</span> <span class="k">public</span> <span class="k">virtual</span> <span class="n">RefBase</span></div><div class='line' id='LC70'><span class="p">{</span></div><div class='line' id='LC71'><span class="nl">public:</span></div><div class='line' id='LC72'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="n">Overlay</span><span class="p">(</span><span class="k">const</span> <span class="n">sp</span><span class="o">&lt;</span><span class="n">OverlayRef</span><span class="o">&gt;&amp;</span> <span class="n">overlayRef</span><span class="p">);</span></div><div class='line' id='LC73'><br/></div><div class='line' id='LC74'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="cm">/* destroys this overlay */</span></div><div class='line' id='LC75'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="kt">void</span> <span class="nf">destroy</span><span class="p">();</span></div><div class='line' id='LC76'><br/></div><div class='line' id='LC77'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="cm">/* get the HAL handle for this overlay */</span></div><div class='line' id='LC78'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="kt">overlay_handle_t</span> <span class="n">getHandleRef</span><span class="p">()</span> <span class="k">const</span><span class="p">;</span></div><div class='line' id='LC79'><br/></div><div class='line' id='LC80'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="cm">/* blocks until an overlay buffer is available and return that buffer. */</span></div><div class='line' id='LC81'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="kt">status_t</span> <span class="nf">dequeueBuffer</span><span class="p">(</span><span class="kt">overlay_buffer_t</span><span class="o">*</span> <span class="n">buffer</span><span class="p">);</span></div><div class='line' id='LC82'><br/></div><div class='line' id='LC83'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="cm">/* release the overlay buffer and post it */</span></div><div class='line' id='LC84'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="kt">status_t</span> <span class="nf">queueBuffer</span><span class="p">(</span><span class="kt">overlay_buffer_t</span> <span class="n">buffer</span><span class="p">);</span></div><div class='line' id='LC85'><br/></div><div class='line' id='LC86'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="cm">/* change the width and height of the overlay */</span></div><div class='line' id='LC87'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="kt">status_t</span> <span class="nf">resizeInput</span><span class="p">(</span><span class="kt">uint32_t</span> <span class="n">width</span><span class="p">,</span> <span class="kt">uint32_t</span> <span class="n">height</span><span class="p">);</span></div><div class='line' id='LC88'><br/></div><div class='line' id='LC89'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="kt">status_t</span> <span class="nf">setCrop</span><span class="p">(</span><span class="kt">uint32_t</span> <span class="n">x</span><span class="p">,</span> <span class="kt">uint32_t</span> <span class="n">y</span><span class="p">,</span> <span class="kt">uint32_t</span> <span class="n">w</span><span class="p">,</span> <span class="kt">uint32_t</span> <span class="n">h</span><span class="p">)</span> <span class="p">;</span></div><div class='line' id='LC90'><br/></div><div class='line' id='LC91'><span class="cp">#ifdef OMAP_ENHANCEMENT</span></div><div class='line' id='LC92'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="kt">status_t</span> <span class="nf">set_s3d_params</span><span class="p">(</span><span class="kt">int32_t</span> <span class="n">s3d_mode</span><span class="p">,</span> <span class="kt">uint32_t</span> <span class="n">s3d_fmt</span><span class="p">,</span> <span class="kt">uint32_t</span> <span class="n">s3d_order</span><span class="p">,</span> <span class="kt">uint32_t</span> <span class="n">s3d_subsampling</span><span class="p">);</span></div><div class='line' id='LC93'><span class="cp">#endif</span></div><div class='line' id='LC94'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="kt">status_t</span> <span class="nf">getCrop</span><span class="p">(</span><span class="kt">uint32_t</span><span class="o">*</span> <span class="n">x</span><span class="p">,</span> <span class="kt">uint32_t</span><span class="o">*</span> <span class="n">y</span><span class="p">,</span> <span class="kt">uint32_t</span><span class="o">*</span> <span class="n">w</span><span class="p">,</span> <span class="kt">uint32_t</span><span class="o">*</span> <span class="n">h</span><span class="p">)</span> <span class="p">;</span></div><div class='line' id='LC95'><br/></div><div class='line' id='LC96'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="cm">/* set the buffer attributes */</span></div><div class='line' id='LC97'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="kt">status_t</span> <span class="nf">setParameter</span><span class="p">(</span><span class="kt">int</span> <span class="n">param</span><span class="p">,</span> <span class="kt">int</span> <span class="n">value</span><span class="p">);</span></div><div class='line' id='LC98'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="kt">status_t</span> <span class="nf">setFd</span><span class="p">(</span><span class="kt">int</span> <span class="n">fd</span><span class="p">);</span></div><div class='line' id='LC99'><br/></div><div class='line' id='LC100'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="cm">/* returns the address of a given buffer if supported, NULL otherwise. */</span></div><div class='line' id='LC101'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="kt">void</span><span class="o">*</span> <span class="nf">getBufferAddress</span><span class="p">(</span><span class="kt">overlay_buffer_t</span> <span class="n">buffer</span><span class="p">);</span></div><div class='line' id='LC102'><br/></div><div class='line' id='LC103'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="cm">/* get physical informations about the overlay */</span></div><div class='line' id='LC104'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="kt">uint32_t</span> <span class="n">getWidth</span><span class="p">()</span> <span class="k">const</span><span class="p">;</span></div><div class='line' id='LC105'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="kt">uint32_t</span> <span class="n">getHeight</span><span class="p">()</span> <span class="k">const</span><span class="p">;</span></div><div class='line' id='LC106'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="kt">int32_t</span> <span class="n">getFormat</span><span class="p">()</span> <span class="k">const</span><span class="p">;</span></div><div class='line' id='LC107'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="kt">int32_t</span> <span class="n">getWidthStride</span><span class="p">()</span> <span class="k">const</span><span class="p">;</span></div><div class='line' id='LC108'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="kt">int32_t</span> <span class="n">getHeightStride</span><span class="p">()</span> <span class="k">const</span><span class="p">;</span></div><div class='line' id='LC109'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="kt">int32_t</span> <span class="n">getBufferCount</span><span class="p">()</span> <span class="k">const</span><span class="p">;</span></div><div class='line' id='LC110'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="kt">status_t</span> <span class="n">getStatus</span><span class="p">()</span> <span class="k">const</span><span class="p">;</span></div><div class='line' id='LC111'><br/></div><div class='line' id='LC112'><span class="nl">private:</span></div><div class='line' id='LC113'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="k">virtual</span> <span class="o">~</span><span class="n">Overlay</span><span class="p">();</span></div><div class='line' id='LC114'><br/></div><div class='line' id='LC115'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="n">sp</span><span class="o">&lt;</span><span class="n">OverlayRef</span><span class="o">&gt;</span> <span class="n">mOverlayRef</span><span class="p">;</span></div><div class='line' id='LC116'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="kt">overlay_data_device_t</span> <span class="o">*</span><span class="n">mOverlayData</span><span class="p">;</span></div><div class='line' id='LC117'>&nbsp;&nbsp;&nbsp;&nbsp;<span class="kt">status_t</span> <span class="n">mStatus</span><span class="p">;</span></div><div class='line' id='LC118'><span class="p">};</span></div><div class='line' id='LC119'><br/></div><div class='line' id='LC120'><span class="c1">// ----------------------------------------------------------------------------</span></div><div class='line' id='LC121'><br/></div><div class='line' id='LC122'><span class="p">};</span> <span class="c1">// namespace android</span></div><div class='line' id='LC123'><br/></div><div class='line' id='LC124'><span class="cp">#endif </span><span class="c1">// ANDROID_OVERLAY_H</span></div><div class='line' id='LC125'><br/></div></pre></div>
           </td>
         </tr>
       </table>
@@ -689,7 +739,7 @@
       <hr class="footer-divider">
 
 
-    <p class="right">&copy; 2013 <span title="0.10525s from fe4.rs.github.com">GitHub</span>, Inc. All rights reserved.</p>
+    <p class="right">&copy; 2013 <span title="0.08996s from fe13.rs.github.com">GitHub</span>, Inc. All rights reserved.</p>
     <a class="left" href="/">
       <span class="mega-octicon octicon-mark-github"></span>
     </a>
@@ -735,7 +785,7 @@
     </div>
 
     
-    <span id='server_response_time' data-time='0.10577' data-host='fe4'></span>
+    <span id='server_response_time' data-time='0.09045' data-host='fe13'></span>
     
   </body>
 </html>
