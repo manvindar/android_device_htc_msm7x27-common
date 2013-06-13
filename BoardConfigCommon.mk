@@ -34,7 +34,7 @@ TARGET_PROVIDES_LIBAUDIO := true
 
 ### Kernel
 TARGET_KERNEL_SOURCE := kernel/htc/msm7227
-TARGET_KERNEL_CONFIG := cyanogen_msm7227_defconfig
+TARGET_KERNEL_CONFIG := marvel_defconfig
 TARGET_KERNEL_CUSTOM_TOOLCHAIN := arm-eabi-4.4.3
 
 ## Copy Device Kernel Headers here if necessary, DO NOT use Android auto-generated headers
